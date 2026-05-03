@@ -18,6 +18,7 @@
 
 ### 🚀 About Me
 
+- 🌐 **Portfolio:** [nusrat-ullah.vercel.app](https://nusrat-ullah.vercel.app)
 - 🔭 Software Engineer at **Nybsys (Pvt) Ltd.**, Dhaka
 - 🎓 Pursuing **MSc in CSE (AI/ML)** at Jahangirnagar University
 - 🧠 Building production-grade **RAG, LLM, and MLOps** systems
