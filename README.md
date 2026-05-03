@@ -22,7 +22,7 @@
 - 🔭 Software Engineer at **Nybsys (Pvt) Ltd.**, Dhaka
 - 🎓 Pursuing **MSc in CSE (AI/ML)** at Jahangirnagar University
 - 🧠 Building production-grade **RAG, LLM, and MLOps** systems
-- 💻 Competitive programmer — solved **1200+ problems**
+- 💻 Competitive programmer — solved **1300+ problems**
 - 🌱 Exploring **Kubernetes, Kubeflow, MLflow, and Agent-based workflows**
 - 📍 Based in **Dhaka, Bangladesh**
 
