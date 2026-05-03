@@ -3,6 +3,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=M-Nusrat-Ullah&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://nusrat-ullah.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-nusrat--ullah.vercel.app-7c3aed?style=flat" />
+  </a>
   <a href="https://www.linkedin.com/in/nusrat-ullah-tahmid">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
