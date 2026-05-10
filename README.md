@@ -71,6 +71,8 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🧠 LSTM Hyperparameter Optimization</h3>
       <p align="center">
