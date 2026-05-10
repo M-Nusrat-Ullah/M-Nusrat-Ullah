@@ -52,6 +52,26 @@
       </p>
     </td>
     <td width="50%">
+      <h3 align="center">📚 BookShelf — AI Book Management</h3>
+      <p align="center">
+        <a href="https://github.com/M-Nusrat-Ullah/Book-Management">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Nusrat-Ullah&repo=Book-Management&theme=tokyonight&hide_border=true" />
+        </a>
+      </p>
+      <p>
+        Full-stack book management system with AI-powered natural language search and 
+        personalized recommendations. MERN + Python FastAPI microservice architecture 
+        with multi-provider LLM support (Ollama/Gemini) and Docker Compose deployment.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">🧠 LSTM Hyperparameter Optimization</h3>
       <p align="center">
         <a href="https://github.com/M-Nusrat-Ullah/Hyperparemeter-Optimization-of-LSTM-using-PSO-and-GA">
@@ -80,6 +100,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
