@@ -74,6 +74,27 @@
   </tr>
   <tr>
     <td width="50%">
+  <h3 align="center">🐍 RL Snake Bot</h3>
+  <p align="center">
+    <a href="https://github.com/M-Nusrat-Ullah/rl-snake-bot">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Nusrat-Ullah&repo=rl-snake-bot&theme=tokyonight&hide_border=true" />
+    </a>
+  </p>
+  <p>
+    Reinforcement Learning project implementing a Deep Q-Network (DQN) agent 
+    for Snake using PyTorch and Gymnasium. Includes MLflow experiment tracking, 
+    FastAPI inference API, Dockerized deployment, and a React frontend for 
+    real-time gameplay visualization.
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gymnasium-0081A5?style=flat" />
+    <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  </p>
+</td>
+    <td width="50%">
       <h3 align="center">🧠 LSTM Hyperparameter Optimization</h3>
       <p align="center">
         <a href="https://github.com/M-Nusrat-Ullah/Hyperparemeter-Optimization-of-LSTM-using-PSO-and-GA">
